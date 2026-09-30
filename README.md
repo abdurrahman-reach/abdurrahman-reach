@@ -1,4 +1,4 @@
-# Hi 👋, I'm abdurrahman-reach  
+# Hi 👋, I'm abdurrahman
 ### 🔭 Aspiring Full Stack Web Developer and CSE Student
 
 ---
