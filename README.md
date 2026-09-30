@@ -24,13 +24,3 @@ I'm an aspiring Full Stack Web Developer and a Computer Science and Engineering 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrahman-reach&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman-reach&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=abdurrahman-reach&style=flat-square)
